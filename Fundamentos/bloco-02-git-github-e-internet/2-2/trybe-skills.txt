@@ -1,5 +1,5 @@
 Unix
 Bash
 Git
-Front End
-Back End
+HTML
+CSS
